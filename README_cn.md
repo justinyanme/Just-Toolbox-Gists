@@ -8,6 +8,8 @@ Just Toolbox是一个面向开发者的工具集App。基于SwiftUI开发，可�
 
 这个github仓库包含了Just Toolbox App里的部分核心代码及原理教程。如果你对这个App感兴趣的话，欢迎在[App Store](https://apps.apple.com/app/id6504505981)下载使用。
 
+[![](https://github.com/user-attachments/assets/e296e42f-56c0-4813-9297-f47a5bff3755)](https://apps.apple.com/app/id6504505981)
+
 [English](README.md) | [简体中文](README_cn.md)
 
 ## Table of Contents
