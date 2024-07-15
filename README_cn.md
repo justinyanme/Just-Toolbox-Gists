@@ -4,9 +4,9 @@
 [![Swift](https://img.shields.io/badge/Swift-5.0_5.9-orange?style=flat-square)](https://img.shields.io/badge/Swift-5.0_5.9-Orange?style=flat-square)
 [![Platforms](https://img.shields.io/badge/Platforms-macOS_iOS_watchOS_visionOS-yellowgreen?style=flat-square)](https://img.shields.io/badge/Platforms-macOS_iOS_watchOS_visionOS-yellowgreen?style=flat-square)
 
-Just Toolbox is a toolkit for developers. It is built with SwiftUI and work across iPhone, iPad, Apple Watch, Mac and Vision Pro.
+Just Toolbox是一个面向开发者的工具集App。基于SwiftUI开发，可以运行在iPhone, iPad, Apple Watch, Mac和Vision Pro上。
 
-This GitHub repository contains some of the core code and principle tutorials of the Just Toolbox App. If you are interested in this app, feel free to download and use it from the App Store.
+这个github仓库包含了Just Toolbox App里的部分核心代码及原理教程。如果你对这个App感兴趣的话，欢迎在App Store下载使用。
 
 [English](README.md) | [简体中文](README_cn.md)
 
