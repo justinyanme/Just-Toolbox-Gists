@@ -1,3 +1,14 @@
+# Integer Base Conversion in Swift
+
+使用Swift在不同进制的整数之间进行转换。系统的整数类型默认使用十进制，我们需要转换成String用于表达各种不同的进制。
+
+十进制的基数/底数(Radix, base)是10，二进制是2，以此类推。
+
+Swift在`Int`和`String`提供了进制转换方法，支持的范围是`2-36`，因为在`String`中如果要表达一个大于十进制的数，则除了`0-9`还需要用上`a-z`和`A-Z`，最多十个数字加上26个字母，一共36个字符。
+
+以下为转换代码:
+
+```swift
 enum IntegerBase: Int, CaseIterable {
     case binary = 2
     case octal = 8
@@ -43,3 +54,4 @@ func convert(text: String, from: IntegerBase, to: IntegerBase) -> String? {
         return String(decimal)
     }
 }
+```
