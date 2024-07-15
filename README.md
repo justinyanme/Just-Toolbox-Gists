@@ -9,7 +9,7 @@ Just Toolbox is a toolkit for developers. It is built with SwiftUI and work acro
 
 This GitHub repository contains some of the core code and principle tutorials of the Just Toolbox App. If you are interested in this app, feel free to download and use it from the [App Store](https://apps.apple.com/app/id6504505981).
 
-![](https://apps.apple.com/app/id6504505981)
+![https://github.com/user-attachments/assets/1ea8ba97-f2f4-4a1f-98f1-9b84688c6441](https://apps.apple.com/app/id6504505981)
 [English](README.md) | [简体中文](README_cn.md)
 
 ## Table of Contents
