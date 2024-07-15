@@ -1,5 +1,5 @@
 # Just-Toolbox-Gists
-![Just Toolbox: Essential Tools for Developers](https://github.com/user-attachments/assets/b7a5e840-4fb8-47c6-b18d-d041f7b0f0ea)
+![Just Toolbox: Essential Tools for Developers](https://github.com/user-attachments/assets/bd64e2b1-d2c5-4d36-ae05-d9d638b39129)
 
 [![Swift](https://img.shields.io/badge/Swift-5.0_5.9-orange?style=flat-square)](https://img.shields.io/badge/Swift-5.0_5.9-Orange?style=flat-square)
 [![Platforms](https://img.shields.io/badge/Platforms-macOS_iOS_watchOS_visionOS-yellowgreen?style=flat-square)](https://img.shields.io/badge/Platforms-macOS_iOS_watchOS_visionOS-yellowgreen?style=flat-square)
