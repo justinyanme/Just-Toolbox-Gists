@@ -6,7 +6,7 @@
 
 Just Toolbox是一个面向开发者的工具集App。基于SwiftUI开发，可以运行在iPhone, iPad, Apple Watch, Mac和Vision Pro上。
 
-这个github仓库包含了Just Toolbox App里的部分核心代码及原理教程。如果你对这个App感兴趣的话，欢迎在App Store下载使用。
+这个github仓库包含了Just Toolbox App里的部分核心代码及原理教程。如果你对这个App感兴趣的话，欢迎在[App Store](https://apps.apple.com/app/id6504505981)下载使用。
 
 [English](README.md) | [简体中文](README_cn.md)
 
