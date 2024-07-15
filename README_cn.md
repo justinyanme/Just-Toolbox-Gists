@@ -12,4 +12,4 @@ This GitHub repository contains some of the core code and principle tutorials of
 
 ## Table of Contents
 
-1. [使用Swift在不同进制的整数之间进行转换](en/IntegerBaseConversion.md)
+1. [使用Swift在不同进制的整数之间进行转换](cn/IntegerBaseConversion.md)
