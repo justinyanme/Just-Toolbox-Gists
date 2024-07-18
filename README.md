@@ -16,3 +16,4 @@ This GitHub repository contains some of the core code and principle tutorials of
 ## Table of Contents
 
 1. [Integer Base Conversion in Swift](en/IntegerBaseConversion.md)
+2. [Token Generator and How the OS Generate Random Numbers](en/TokenGenerator.md)
