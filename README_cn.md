@@ -15,5 +15,5 @@ Just Toolbox是一个面向开发者的工具集App。基于SwiftUI开发，可�
 ## Table of Contents
 
 1. [使用Swift在不同进制的整数之间进行转换](cn/IntegerBaseConversion.md)
-2. [Token生成器及系统随机数生成原理](en/TokenGenerator.md)
+2. [Token生成器及系统随机数生成原理](cn/TokenGenerator.md)
 
